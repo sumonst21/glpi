@@ -36,14 +36,14 @@
         "fittext.js": "^1.2.0",
         "flatpickr": "^4.6.3",
         "fuzzy": "^0.1.3",
-        "gettext.js": "^1.0.0",
+        "gettext.js": "^2.0.3",
         "gridstack": "^5.0.0",
         "hotkeys-js": "^3.8.7",
         "html5sortable": "^0.13.2",
         "jquery": "^3.4.1",
         "jquery-migrate": "^3.1.0",
         "jquery-prettytextdiff": "^1.0.4",
-        "jquery-ui": "^1.11.4",
+        "jquery-ui": "^1.13.2",
         "jquery.fancytree": "^2.38.0",
         "jquery.rateit": "^1.1.3",
         "leaflet": "^1.6.0",
@@ -56,14 +56,14 @@
         "masonry-layout": "^4.2.2",
         "photoswipe": "^4.1.3",
         "plain-scrollbar": "github:ewya/PlainScrollbar#35221e7c7fa9633d6f61bcd9d7b418b6de6da73b",
-        "prismjs": "^1.23.0",
+        "prismjs": "^1.30.0",
         "process": "^0.11.10",
         "qtip2": "^3.0.3",
         "rrule": "^2.6.3",
         "select2": "^4.0.13",
         "spectrum-colorpicker2": "^2.0.9",
         "spin.js": "^4.1.0",
-        "tinymce": "^6.0.2",
+        "tinymce": "^7.2.0",
         "tinymce-i18n": "^22.5.2"
     },
     "scripts": {
@@ -93,7 +93,7 @@
         "stylelint": "^14.1.0",
         "stylelint-config-standard-scss": "^3.0.0",
         "terser": "^5.2.1",
-        "webpack": "^5.3.2",
+        "webpack": "^5.100.2",
         "webpack-cli": "^4.1.0"
     }
 }
